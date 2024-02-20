@@ -1,3 +1,5 @@
+# THIS IS FORKED FROM THE OFFICIAL [LABRING FASTGPT REPO](https://github.com/labring/FastGPT)
+
 <div align="center">
 
 <a href="https://fastgpt.in/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="fastgpt logo"></a>
